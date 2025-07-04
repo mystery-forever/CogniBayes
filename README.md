@@ -23,17 +23,17 @@ To model and analyze cognitive processes—particularly word recognition—using
 
 ## 📁 Repository Structure
 
-Bayesian-Cognitive-Modeling/
-├── README.md
-├── assignments/
-│ ├── Assignment-01.pdf
-│ ├── Assignment-02.pdf
-│ └── Assignment-03.pdf
-├── notebooks/
-│ ├── grid_approximation.ipynb
-│ ├── mcmc_sampler.ipynb
-│ ├── hmc_sampler.ipynb
-│ └── lexical_access_model.ipynb
+Bayesian-Cognitive-Modeling/  
+├── README.md  
+├── assignments/  
+│ ├── Assignment-01.pdf  
+│ ├── Assignment-02.pdf  
+│ └── Assignment-03.pdf  
+├── notebooks/  
+│ ├── grid_approximation.ipynb  
+│ ├── mcmc_sampler.ipynb  
+│ ├── hmc_sampler.ipynb  
+│ └── lexical_access_model.ipynb  
 
 
 ---
